@@ -6,6 +6,7 @@ const emojipedia = [
     meaning:
       "“You can do that!” or “I feel strong!” Arm with tense biceps. Also used in connection with doing sports, e.g. at the gym."
   },
+
   {
     id: 2,
     emoji: "🙏",
@@ -13,6 +14,7 @@ const emojipedia = [
     meaning:
       "Two hands pressed together. Is currently very introverted, saying a prayer, or hoping for enlightenment. Is also used as a “high five” or to say thank you."
   },
+
   {
     id: 3,
     emoji: "🤣",
